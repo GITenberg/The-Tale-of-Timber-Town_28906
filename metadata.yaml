@@ -1,0 +1,27 @@
+_repo: The-Tale-of-Timber-Town_28906
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28906-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Grace, Alfred A. (Alfred Augustus)
+    alias: Grace, A. A. (Alfred Augustus)
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '33581'
+    url: http://www.gutenberg.org/2009/agents/33581
+description: ''
+gutenberg_issued: '2009-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Zealand -- Fiction'
+- !lcc 'PR'
+title: The Tale of Timber Town
+url: http://www.gutenberg.org/ebooks/28906
