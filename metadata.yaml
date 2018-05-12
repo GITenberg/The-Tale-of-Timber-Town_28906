@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33581'
     url: http://www.gutenberg.org/2009/agents/33581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28906#The-Tale-of-Timber-Town
 gutenberg_issued: '2009-05-21'
 gutenberg_type: Text
 identifiers:
